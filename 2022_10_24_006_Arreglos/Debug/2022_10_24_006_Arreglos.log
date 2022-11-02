@@ -1,0 +1,7 @@
+﻿  2022_10_24_006_Arreglos.cpp
+C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\2022_10_24_006_Arreglos.cpp(12,7): warning C4101: 'vec2': variable local sin referencia
+C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\2022_10_24_006_Arreglos.cpp(15,8): warning C4101: 'vec5': variable local sin referencia
+C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\2022_10_24_006_Arreglos.cpp(11,6): warning C4101: 'vec1': variable local sin referencia
+C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\2022_10_24_006_Arreglos.cpp(13,7): warning C4101: 'vec3': variable local sin referencia
+C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\2022_10_24_006_Arreglos.cpp(16,9): warning C4101: 'vec6': variable local sin referencia
+  2022_10_24_006_Arreglos.vcxproj -> C:\Users\AMK-7\Desktop\Mau_Progra_No_borrar_please\2022_10_24_006_Arreglos\Debug\2022_10_24_006_Arreglos.exe
